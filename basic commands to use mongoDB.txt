@@ -1,0 +1,11 @@
+    /******************************************************************************************************
+     BASIC COMMANDS TO USE MONGODB DATABASE:
+     - SHOW EXISTING DATABASES:                             show dbs
+     - SELECT/CHANGE DATABASE:                              use db
+     - VERIFY DATABASE NAME:                                db
+     - SHOW EXISTING COLLECTIONS INSIDE A DATABASE:         show collections
+     - SELECT/CHANGE COLLECTION:                            use collectionName
+     - SHOW DOCUMENTS FROM A COLLECTION:                    db.collectionName.find().pretty()
+     ******************************************************************************************************/
+     NOTES:
+     - TO SHOW THE INFO CONTAINED INSIDE A DOCUMENT, WE NEED TO SELECT THE DATABASE FIRST OF ALL, THEN WE WILL BE ABLE TO SHOW THE DOCUMENT WE WANT.

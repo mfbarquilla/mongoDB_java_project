@@ -1,0 +1,16 @@
+### JAVA ###
+############
+*.class
+
+# Package Files #
+*.jar
+
+### MAVEN ###
+##############
+/target/
+
+### IDEA ###
+###############
+/.idea/
+*.iml
+
